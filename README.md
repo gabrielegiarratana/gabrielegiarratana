@@ -1,6 +1,6 @@
 ## Hi there, my name is Gabriele! 👋
 
-I like 💻code and ⌨️programming languages[^💜].
+I like 💻code and ⌨️programming languages.
 
 - 🔭 I’m currently working in Intesa San Paolo on big data projects
 - 🌱 I’m currently learning big data and microservices architectures
